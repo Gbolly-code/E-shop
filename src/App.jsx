@@ -7,7 +7,7 @@ import Cart from "./pages/Cart"
 import Checkout from "./pages/Checkout"
 import { useState } from "react"
 import Order from "./pages/Order"
-import FilterData from "./pages/filterData"
+import FilterData from "./pages/FilterData"
 import ProductDetail from "./pages/ProductDetail"
 
 function App() {
